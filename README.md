@@ -1,4 +1,4 @@
-# Resturand Database Management System
+# Restaurant Database Management System
 As competition within the restaurant industry increases and customer expectations continue to rise, there
 is a growing need for technology to control customer flow, staff operations, orders, and payments with
 precision. However, coordinating reservations, walk-ins, table assignments, orders, and payments can be
